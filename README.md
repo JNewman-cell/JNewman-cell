@@ -1,87 +1,71 @@
-Hi there, I'm Jackson Newman 👋
+Hi there! I'm Jackson Newman 👋
 
+Contact Info:
 
+    Location: Redwood City, CA
+    Email: jpnewman167@gmail.com
+    LinkedIn: jacknewman
+    GitHub: JNewman-cell
+    Portfolio: jacksonnewman.netlify.app
 
-I'm a passionate software engineer with experience in developing high-performance and user-friendly applications. I'm currently pursuing a Bachelor of Science in Computer Engineering at the University of California, Santa Barbara, where I maintain a 3.7 GPA and have been on the Dean's Honors list. Here’s a bit more about me:
-🛠️ Work Experience
-AMD, San Jose, CA
+About Me
 
-Software Engineer Intern, Internal Development Tooling
-June 2023 - September 2023
+I'm a passionate and driven Computer Engineering student at UCSB, set to graduate in June 2024. With hands-on experience in software development and a strong foundation in various programming languages and tools, I'm always eager to take on new challenges and grow my skill set.
+🛠️ Technical Skills
 
-    Boosted Vivado constraint processing speed 2x via Wildcard Matching and optimized preprocessing in C++.
-    Formulated unit tests covering 100% of cases to test performance and validity of new constraint processing.
-    Trimmed memory footprint by 340MB by replacing hash maps with 3rd party package in C++.
-    Cut testing times by up to 80% by automating testing for memory allocation and encryption performance.
-    Reduced project update time by 90% by automating the process of changing encryption keys for IP.
+    Languages: C++, Java, Python, C, SQL (PostgreSQL, SQLite), JavaScript, HTML/CSS
+    Frameworks: React, Node.js, Flask, Bootstrap, Material-UI, Storybook
+    Tools: Git, Docker, Jira, Google Cloud Platform, Confluence, Perforce, NPM, Firebase, GitHub Actions
+    Libraries: pandas, NumPy, TensorFlow, PyTorch, Keras, Seaborn, matplotlib
 
-Shellie.us, San Francisco, CA
+💼 Work Experience
 
-Full-Stack Software Engineer Intern
-June 2022 - September 2022
+Software Engineer Intern @ AMD
+San Jose, CA | June 2023 - September 2023
 
-    Expanded functionality of a React website that accommodated hundreds of active users and dozens of companies.
-    Designed a user hierarchy-based editing page for online exhibits, streamlining edits to webpages.
-    Eliminated all user web page inquiries and reduced time to launch new exhibit pages by 40%.
+    Doubled Vivado constraint processing speed with Wildcard Matching and optimized preprocessing in C++.
+    Created unit tests for 100% case coverage to ensure performance and validity of new constraint processing.
+    Reduced memory footprint by 340MB by switching to a 3rd party package in C++.
+    Cut testing times by up to 80% by automating memory allocation and encryption performance tests.
+    Slashed project update time by 90% through automation of encryption key changes for IP.
 
-💻 Projects
+Full-Stack Software Engineer Intern @ Shellie.us
+San Francisco, CA | June 2022 - September 2022
+
+    Enhanced a React website used by hundreds of active users and numerous companies.
+    Designed a user hierarchy-based editing page for online exhibits, streamlining webpage edits.
+    Completely eliminated user webpage inquiries and cut new exhibit page launch time by 40%.
+
+🚀 Projects
+
 Commuter Helper
-
 React, CSS, Bootstrap, Google Auth, GCP, Firebase, Git
 
-    Developed a user-friendly website enabling commute input and delivering daily emails with the best route.
-    Configured Firebase for user authentication, utilizing Google Place API for precise address auto-complete.
-    Adapted GCP for Cloud Function, checking departure times and utilizing Routes API for route statistics.
+    Built a user-friendly website for commute input, sending daily emails with the best routes.
+    Set up Firebase for user authentication and used Google Place API for address auto-complete.
+    Utilized GCP Cloud Functions to check departure times and Routes API for route statistics.
 
 Collaborative Full Stack Website
+Java, JavaScript, SQL, Maven, Jest, Git, CI/CD, Jenkins, RESTful API
 
-Java, Javascript, SQL, Maven, Jest, Git, CI/CD, Jenkins, RESTful API
-
-    Collaborated with an Agile team to deploy 7 features to a Dokku PostgreSQL database within a sizable codebase.
-    Introduced a feature allowing users to search courses by instructor, implementing a new query for result retrieval.
-    Introduced a form using local storage to modify user metadata in MongoDB, enabling seamless searching.
+    Worked with an Agile team to deploy 7 features to a Dokku PostgreSQL database within a large codebase.
+    Added a feature for searching courses by instructor, implementing a new query for result retrieval.
+    Created a form using local storage to modify user metadata in MongoDB, facilitating seamless searching.
 
 TinyGPT
-
 Python, PyTorch, Numpy, Self Attention, Transformers
 
-    Implemented a cutting-edge language model using PyTorch, enabling the generation of text from input sequences.
-    Utilized advanced NLP techniques inspired by GPT-2, including Transformers, for effective pattern capture.
+    Implemented a cutting-edge language model using PyTorch to generate text from input sequences.
+    Used advanced NLP techniques inspired by GPT-2, including Transformers, for effective pattern capture.
     Demonstrated expertise in training and optimization within the GPT-2 framework for robust text generation.
 
 🎓 Education
 
 University of California, Santa Barbara
-Bachelor of Science in Computer Engineering
-September 2020 - June 2024
-GPA: 3.7 | Dean's Honors
+Bachelor of Science in Computer Engineering | September 2020 - June 2024
 
-Relevant Coursework:
+    GPA: 3.7
+    Dean's Honors
+    Relevant Coursework: Data Structures, Algorithms, Operating Systems, Full Stack Web Development, Software Engineering, Computer Architecture, Embedded Systems
 
-    Data Structures
-    Algorithms
-    Operating Systems
-    Full Stack Web Development
-
-🛠️ Technical Skills
-
-Programming Languages:
-C++, Java, Python, C, PostgresSQL, SQL, SQLite, JavaScript, HTML/CSS
-
-Frameworks:
-React, Node.js, Flask, Bootstrap, Material-UI, Storybook
-
-Developer Tools:
-Git, Docker, Jira, Google Cloud Platform, Confluence, Perforce, NPM, Firebase, GitHub Actions
-
-Libraries:
-pandas, NumPy, TensorFlow, PyTorch, Keras, Seaborn, matplotlib
-
-Other Skills:
-
-    Proficient in Linux development, command-line navigation, shell scripting, and development tools.
-    Hands-on proficiency in automated QA, maintaining rigorous quality standards.
-    Swift acquisition of new programming languages and tools, contributing significantly to diverse projects during internships.
-    Expertise in diagnosing, analyzing, and resolving various software issues.
-
-Feel free to connect with me on LinkedIn or check out my GitHub for more projects and updates.
+I'm always excited to connect with fellow tech enthusiasts, so feel free to reach out! Let's build something amazing together. 🚀
